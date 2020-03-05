@@ -1,4 +1,6 @@
-# trivia
+# Trivia Vue
+
+[Trivia](https://trivia-vue-mrm0hbai5.now.sh/)
 
 ## Project setup
 ```
@@ -19,6 +21,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
